@@ -1,0 +1,98 @@
+/* Set font family */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style navigation bar */
+  .navbar {
+    background-color: #fff;
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    color: #000;
+    margin-left: 1rem;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+  
+  /* Style car details */
+  .container {
+    margin-top: 3rem;
+  }
+  
+  .col-md-6 {
+    padding: 2rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  ul {
+    list-style: none;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  li {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .btn-primary {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    padding: 1rem 2.5rem;
+    border-radius: 2rem;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+    color: #fff;
+  }
+  
+  /* Style footer */
+  .footer {
+    margin-top: 3rem;
+    padding: 2rem;
+  }
+  
+  h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+  
+  ul.list-inline {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  li.list-inline-item {
+    margin-right: 1.5rem;
+  }
+  
+  .fa-2x {
+    font-size: 2rem;
+  }
+  
